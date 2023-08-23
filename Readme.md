@@ -139,9 +139,9 @@ Regarding the course, the main communication channels will be Zoom and Discord a
 ## Class Recordings
 
 - **Lectures (Samuel)**
-  - [Class 1: Projects Intro](https://drive.google.com/drive/folders/1KMhF0zX7zUPuAZMzqJSAUmb3y31kDitS?usp=drive_link)
+  - [Class 1: Projects Intro](https://us06web.zoom.us/rec/share/9-gjYGLGcrzkhLJSGGmfqxgLSoOOGSvszAhHQETci-LnqzNsRUVoZW7PPbtpfyCS.m9s7r9XSrWNVG82G?startTime=1692661023000&pwd=uSe6kopGf6vSd9g-bKBmlHJWfiC7b4Pc)
 
->Note: Only recordings for general meetings. NOT recordings for one to ones.
+>Note: Only recordings for general meetings will be uploaded. NOT recordings will be posted for one-to-ones here (including the ones for individual code reviews from tutorials ("ayudantias").
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
 
