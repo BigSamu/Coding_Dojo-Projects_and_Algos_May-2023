@@ -177,8 +177,11 @@ During the course, useful resources will be listed below for guiding students in
   - [Git Tutorial](https://medium.com/swlh/an-introduction-to-git-and-github-22ecb4cb1256)
   - [Terminal for Beginners](https://medium.com/@grace.m.nolan/terminal-for-beginners-e492ba10902a)
 
-- **UI/UX Tools**
+- **UI/UX Tools and Wireframe Design Apps**
   - [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg)
+  - [Balsamiq Cloud](https://balsamiq.cloud/)
+  - [Excalidraw](https://excalidraw.com/)
+  - [Moqups](https://app.moqups.com/sign-up)
 
 - **Third-Party Libraries and Modules (ReactJS)**
   - [Bootstrap 5.2.3](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
