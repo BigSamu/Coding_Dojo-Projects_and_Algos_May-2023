@@ -185,18 +185,23 @@ During the course, useful resources will be listed below for guiding students in
 
 - **Third-Party Libraries and Modules (ReactJS)**
   - [Bootstrap 5.2.3](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
+  - [Bootstrap-React](https://react-bootstrap.netlify.app/)
+  - [Material UI](https://mui.com/)
   - [Lodash](https://lodash.com/)
+  - [Axios](https://axios-http.com/)
+  - [React Icons](https://react-icons.github.io/react-icons/)
 
 - **Backend Third-Party Libraries and Modules (NodeJS/ExpressJS)**
   - [Socket.io](https://socket.io/)
+  - [Mongoose Unique Validator](https://github.com/mongoose-unique-validator/mongoose-unique-validator)
 
 - **VSCode Add-Ons**
   - [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 - **Useful Tutorials and Reference Guides**
-  - [aa]()
-  - [bb]()
+  - [A React website with Styled-components for beginners](https://dev.to/tracycss/a-react-website-with-styled-components-for-beginners-3don)
+  - [How To Create A Layout Component: React](https://chrisdevcode.hashnode.dev/how-to-create-a-layout-component-react)
 
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
