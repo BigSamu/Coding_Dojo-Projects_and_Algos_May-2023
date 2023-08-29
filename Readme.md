@@ -188,7 +188,9 @@ During the course, useful resources will be listed below for guiding students in
 - **Third-Party Libraries and Modules (ReactJS)**
   - [Bootstrap 5.2.3](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
   - [Bootstrap-React](https://react-bootstrap.netlify.app/)
+  - [Bootswatch](https://bootswatch.com/)
   - [Material UI](https://mui.com/)
+  - [Tailwindcss] (https://tailwindcss.com/)
   - [Lodash](https://lodash.com/)
   - [Axios](https://axios-http.com/)
   - [React Icons](https://react-icons.github.io/react-icons/)
@@ -204,6 +206,8 @@ During the course, useful resources will be listed below for guiding students in
 - **Useful Tutorials and Reference Guides**
   - [A React website with Styled-components for beginners](https://dev.to/tracycss/a-react-website-with-styled-components-for-beginners-3don)
   - [How To Create A Layout Component: React](https://chrisdevcode.hashnode.dev/how-to-create-a-layout-component-react)
+  - [How to make a Navbar with react-scroll](https://dev.to/diballesteros/how-to-make-a-navbar-with-react-scroll-4im8)
+  - [Dashboard layout with React.js and Material-UI](https://dev.to/ramonak/dashboard-layout-with-react-js-and-material-ui-27m4)
 
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
