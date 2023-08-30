@@ -208,6 +208,9 @@ During the course, useful resources will be listed below for guiding students in
   - [How To Create A Layout Component: React](https://chrisdevcode.hashnode.dev/how-to-create-a-layout-component-react)
   - [How to make a Navbar with react-scroll](https://dev.to/diballesteros/how-to-make-a-navbar-with-react-scroll-4im8)
   - [Dashboard layout with React.js and Material-UI](https://dev.to/ramonak/dashboard-layout-with-react-js-and-material-ui-27m4)
+  - [Introduction to Mongoose for MongoDB](https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/)
+  - [What is Aggregation in MongoDB](https://dev.to/yjdoc2/what-is-aggregation-in-mongodb-589c)
+  - [Understanding MongoDB Aggregation Pipeline](https://dev.to/qbentil/understanding-mongodb-aggregation-pipeline-3964)
 
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
