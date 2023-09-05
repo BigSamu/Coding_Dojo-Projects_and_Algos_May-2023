@@ -207,6 +207,13 @@ During the course, useful resources will be listed below for guiding students in
   - [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
+- HTTP and APIs
+  - [What is HTTP? Protocol Overview for Beginners](https://medium.com/geekculture/apis-query-string-parameters-f7f0c060b1)
+  - [REST API Best Practices](https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples/)
+  - [REST Parameters Type](https://rapidapi.com/guides/rest-parameter-types)
+  - [HTTP and Statelessness](https://medium.com/@jaimietn/http-and-statelessness-5e290fec80c0)
+  - [SSL, TLS, HTTPS Explained](https://www.youtube.com/watch?v=j9QmMEWmcfo)
+
 - **Useful Tutorials and Reference Guides**
   - [A React website with Styled-components for beginners](https://dev.to/tracycss/a-react-website-with-styled-components-for-beginners-3don)
   - [How To Create A Layout Component: React](https://chrisdevcode.hashnode.dev/how-to-create-a-layout-component-react)
