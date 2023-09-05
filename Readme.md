@@ -141,8 +141,9 @@ Regarding the course, the main communication channels will be Zoom and Discord a
 - **Lectures (Samuel)**
   - [Class 1: Projects Intro](https://us06web.zoom.us/rec/share/9-gjYGLGcrzkhLJSGGmfqxgLSoOOGSvszAhHQETci-LnqzNsRUVoZW7PPbtpfyCS.m9s7r9XSrWNVG82G?startTime=1692661023000&pwd=uSe6kopGf6vSd9g-bKBmlHJWfiC7b4Pc)
   - [Class 2: General Info and Mockup Reviews](https://us06web.zoom.us/rec/share/ayaiYT945rh9fJs0l6m-pbH96p1VCBdkqRXmx_9MHW-onMvjUzBatv6XqI7po0-j.c0VEU0Z7mUtxOCHH?pwd=wvRmHRRYyD4eceWXSUW0ZSF3q7BeO5U-)
-  - [Class 3: General Info and Library Recomendations](https://us06web.zoom.us/rec/share/zXW2kP2616a5J8XqoBkl1S7tJTr-dIch9Acrvm-7OzeVb9cKIoc6X_8Tzl7oCV3N.-jPjzq9Mo-RmlGP1?startTime=1693263900000&pwd=4-wyNbdR4LlgQa7RaJrVXo34kJONL8rY)
-  - [Class 4: Genral Info and Library Recomendations 2](https://us06web.zoom.us/rec/share/Fx2165pWaRn49GOkpBwZA2lZctSFxcj95-38Fiw1uBqPtNK5JXbJqHUOaJEhijsN.bf8rgDNm4u26Q9C2?pwd=Lhp0XHi9a-SjzP_wrUXXQxgRA00FOsZK)
+  - [Class 3: General Info and Library Recommendations](https://us06web.zoom.us/rec/share/zXW2kP2616a5J8XqoBkl1S7tJTr-dIch9Acrvm-7OzeVb9cKIoc6X_8Tzl7oCV3N.-jPjzq9Mo-RmlGP1?startTime=1693263900000&pwd=4-wyNbdR4LlgQa7RaJrVXo34kJONL8rY)
+  - [Class 4: General Info and Library Recommendations 2](https://us06web.zoom.us/rec/share/Fx2165pWaRn49GOkpBwZA2lZctSFxcj95-38Fiw1uBqPtNK5JXbJqHUOaJEhijsN.bf8rgDNm4u26Q9C2?pwd=Lhp0XHi9a-SjzP_wrUXXQxgRA00FOsZK)
+  - [Class 5: General Info and Github Recommendations](https://us06web.zoom.us/rec/share/HBsyjZB6TOyNvS1e9CqWxLokec4hDhpEH-hkigL7XGBVv30NdG3xsELwsb0VE4xB.Df2EqsUoX18NkAro?pwd=EQ00nT6nrKm0gQMHUs1ZW0ARbq5p-E0k)
 
 >Note: Only recordings for general meetings will be uploaded. NOT recordings will be posted for one-to-ones here (including the ones for individual code reviews from tutorials ("ayudantias").
 
