@@ -180,6 +180,8 @@ During the course, useful resources will be listed below for guiding students in
 - **Git and Terminal**
   - [Git Tutorial](https://medium.com/swlh/an-introduction-to-git-and-github-22ecb4cb1256)
   - [Terminal for Beginners](https://medium.com/@grace.m.nolan/terminal-for-beginners-e492ba10902a)
+  - [Git Merge Conflicts](https://medium.com/version-control-system/git-merge-conflicts-4a18073dcc96)
+  - [How Do I Git? Three Ways to Solve a Merge Conflict…](https://medium.com/@RedRoxProjects/how-do-i-git-three-ways-to-solve-a-merge-conflict-cde4d7924c80)
 
 - **UI/UX Tools and Wireframe Design Apps**
   - [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg)
@@ -215,7 +217,8 @@ During the course, useful resources will be listed below for guiding students in
   - [Understanding MongoDB Aggregation Pipeline](https://dev.to/qbentil/understanding-mongodb-aggregation-pipeline-3964)
   - [Cart Functionality in React with Context API](https://dev.to/anne46/cart-functionality-in-react-with-context-api-2k2f)
   - [Context ApI + useContext Hook (The deadly Beast)!!](https://dev.to/jackent2b/context-api-usecontext-hook-easiest-way-possible-cem)
-
+  - [A Comparison of Static Form Providers](https://css-tricks.com/a-comparison-of-static-form-providers/)
+  - [Protect Your API Keys: A Guide to Saving Them in a .env File](https://medium.com/@oadaramola/a-pitfall-i-almost-fell-into-d1d3461b2fb8)
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
 
