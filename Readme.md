@@ -231,7 +231,7 @@ During the course, useful resources will be listed below for guiding students in
   - [Why you shouldn’t log into db](https://medium.com/@marton.waszlavik/why-you-shouldnt-log-into-db-e700c2cb0c8c)
   - [Database logs vs file logs](https://stackoverflow.com/questions/28394905/database-logs-vs-file-logs)
   - [Building a real-time chat application using MERN stack and Socket.IO](https://dev.to/bhavik786/building-a-real-time-chat-application-using-mern-stack-and-socketio-1obn)
-  -
+  
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
 
