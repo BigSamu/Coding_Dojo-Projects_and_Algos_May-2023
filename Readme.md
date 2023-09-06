@@ -194,7 +194,7 @@ During the course, useful resources will be listed below for guiding students in
   - [Bootstrap-React](https://react-bootstrap.netlify.app/)
   - [Bootswatch](https://bootswatch.com/)
   - [Material UI](https://mui.com/)
-  - [Tailwindcss] (https://tailwindcss.com/)
+  - [Tailwindcss](https://tailwindcss.com/)
   - [Lodash](https://lodash.com/)
   - [Axios](https://axios-http.com/)
   - [React Icons](https://react-icons.github.io/react-icons/)
