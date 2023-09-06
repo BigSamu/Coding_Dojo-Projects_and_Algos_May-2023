@@ -198,6 +198,8 @@ During the course, useful resources will be listed below for guiding students in
   - [Lodash](https://lodash.com/)
   - [Axios](https://axios-http.com/)
   - [React Icons](https://react-icons.github.io/react-icons/)
+  - [Toasts](https://getbootstrap.com/docs/5.2/components/toasts/)
+  - [Modals](https://getbootstrap.com/docs/5.2/components/modal/)
 
 - **Backend Third-Party Libraries and Modules (NodeJS/ExpressJS)**
   - [Socket.io](https://socket.io/)
@@ -226,6 +228,10 @@ During the course, useful resources will be listed below for guiding students in
   - [Context ApI + useContext Hook (The deadly Beast)!!](https://dev.to/jackent2b/context-api-usecontext-hook-easiest-way-possible-cem)
   - [A Comparison of Static Form Providers](https://css-tricks.com/a-comparison-of-static-form-providers/)
   - [Protect Your API Keys: A Guide to Saving Them in a .env File](https://medium.com/@oadaramola/a-pitfall-i-almost-fell-into-d1d3461b2fb8)
+  - [Why you shouldn’t log into db](https://medium.com/@marton.waszlavik/why-you-shouldnt-log-into-db-e700c2cb0c8c)
+  - [Database logs vs file logs](https://stackoverflow.com/questions/28394905/database-logs-vs-file-logs)
+  - [Building a real-time chat application using MERN stack and Socket.IO](https://dev.to/bhavik786/building-a-real-time-chat-application-using-mern-stack-and-socketio-1obn)
+  -
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
 
