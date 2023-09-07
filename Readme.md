@@ -183,6 +183,7 @@ During the course, useful resources will be listed below for guiding students in
   - [Terminal for Beginners](https://medium.com/@grace.m.nolan/terminal-for-beginners-e492ba10902a)
   - [Git Merge Conflicts](https://medium.com/version-control-system/git-merge-conflicts-4a18073dcc96)
   - [How Do I Git? Three Ways to Solve a Merge Conflict…](https://medium.com/@RedRoxProjects/how-do-i-git-three-ways-to-solve-a-merge-conflict-cde4d7924c80)
+  - [How To Resolve Git Merge Conflicts | Merge Conflicts Explained (Video)](https://www.youtube.com/watch?v=9ZRb01WhuoE)
 
 - **UI/UX Tools and Wireframe Design Apps**
   - [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg)
@@ -209,6 +210,7 @@ During the course, useful resources will be listed below for guiding students in
 - **VSCode Add-Ons**
   - [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+  - [Live Share](https://code.visualstudio.com/learn/collaboration/live-share)
 
 - HTTP and APIs
   - [What is HTTP? Protocol Overview for Beginners](https://medium.com/geekculture/apis-query-string-parameters-f7f0c060b1)
@@ -232,6 +234,8 @@ During the course, useful resources will be listed below for guiding students in
   - [Why you shouldn’t log into db](https://medium.com/@marton.waszlavik/why-you-shouldnt-log-into-db-e700c2cb0c8c)
   - [Database logs vs file logs](https://stackoverflow.com/questions/28394905/database-logs-vs-file-logs)
   - [Building a real-time chat application using MERN stack and Socket.IO](https://dev.to/bhavik786/building-a-real-time-chat-application-using-mern-stack-and-socketio-1obn)
+  - [Integration of Google Maps with React](https://medium.com/scalereal/integration-of-google-maps-with-react-part-1-86c075ab452a)
+  - [An Introduction to Environment Variables and How to Use Them](https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa)
 
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
