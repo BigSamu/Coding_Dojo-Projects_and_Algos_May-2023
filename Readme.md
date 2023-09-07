@@ -144,6 +144,7 @@ Regarding the course, the main communication channels will be Zoom and Discord a
   - [Class 3: General Info and Library Recommendations](https://us06web.zoom.us/rec/share/zXW2kP2616a5J8XqoBkl1S7tJTr-dIch9Acrvm-7OzeVb9cKIoc6X_8Tzl7oCV3N.-jPjzq9Mo-RmlGP1?startTime=1693263900000&pwd=4-wyNbdR4LlgQa7RaJrVXo34kJONL8rY)
   - [Class 4: General Info and Library Recommendations 2](https://us06web.zoom.us/rec/share/Fx2165pWaRn49GOkpBwZA2lZctSFxcj95-38Fiw1uBqPtNK5JXbJqHUOaJEhijsN.bf8rgDNm4u26Q9C2?pwd=Lhp0XHi9a-SjzP_wrUXXQxgRA00FOsZK)
   - [Class 5: General Info and Github Recommendations](https://us06web.zoom.us/rec/share/HBsyjZB6TOyNvS1e9CqWxLokec4hDhpEH-hkigL7XGBVv30NdG3xsELwsb0VE4xB.Df2EqsUoX18NkAro?pwd=EQ00nT6nrKm0gQMHUs1ZW0ARbq5p-E0k)
+  - [Class 6: General Info and UI Components Recommendations](https://drive.google.com/drive/folders/1P40aGroC4TFFH_nfqcqdkHu84ZjEX0E8?usp=drive_link)
 
 >Note: Only recordings for general meetings will be uploaded. NOT recordings will be posted for one-to-ones here (including the ones for individual code reviews from tutorials ("ayudantias").
 
@@ -231,7 +232,7 @@ During the course, useful resources will be listed below for guiding students in
   - [Why you shouldn’t log into db](https://medium.com/@marton.waszlavik/why-you-shouldnt-log-into-db-e700c2cb0c8c)
   - [Database logs vs file logs](https://stackoverflow.com/questions/28394905/database-logs-vs-file-logs)
   - [Building a real-time chat application using MERN stack and Socket.IO](https://dev.to/bhavik786/building-a-real-time-chat-application-using-mern-stack-and-socketio-1obn)
-  
+
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
 
