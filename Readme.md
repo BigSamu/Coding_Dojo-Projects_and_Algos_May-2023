@@ -184,6 +184,7 @@ During the course, useful resources will be listed below for guiding students in
   - [Git Merge Conflicts](https://medium.com/version-control-system/git-merge-conflicts-4a18073dcc96)
   - [How Do I Git? Three Ways to Solve a Merge Conflict…](https://medium.com/@RedRoxProjects/how-do-i-git-three-ways-to-solve-a-merge-conflict-cde4d7924c80)
   - [How To Resolve Git Merge Conflicts | Merge Conflicts Explained (Video)](https://www.youtube.com/watch?v=9ZRb01WhuoE)
+  - [How to write a readme.md file? (markdown file)](https://medium.com/@saumya.ranjan/how-to-write-a-readme-md-file-markdown-file-20cb7cbcd6f)
 
 - **UI/UX Tools and Wireframe Design Apps**
   - [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg)
