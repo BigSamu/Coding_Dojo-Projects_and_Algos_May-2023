@@ -1,15 +1,19 @@
 # Heading 1
+
 ## Heading 2
+
 ### Heading 3
+
 #### Heading 4
+
 ##### Heading 5
 
-
-You can write some norma text here!
+_You can write some norma text here!_
+**You can write some norma text here!**
 
 [Portfolio](https://www.bigsamu.com)
 
------------------------------
+---
 
 <h1>Heading 1</h1>
 <h2>Heading 2</h2>
