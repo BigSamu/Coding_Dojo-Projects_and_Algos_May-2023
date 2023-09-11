@@ -48,6 +48,11 @@ git clone "myrepo.com"
   * hola
 
 
+[![React Badge][react-img]][react-url]
+
+![MUI Badge](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge)
+
+>**Note**: This is note!
 
 ---
 
@@ -60,3 +65,9 @@ git clone "myrepo.com"
 <p>You can write some normal text here!</p>
 
 <a href="https://www.bigsamu.com">Portfolio</a>
+
+
+<!-- Varibale -->
+
+[react-img]: https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge
+[react-url]: https://react.dev/
