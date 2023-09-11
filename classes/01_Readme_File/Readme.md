@@ -8,11 +8,46 @@
 
 ##### Heading 5
 
-_You can write some norma text here!_
+*You can write some norma text here!*
 
 **You can write some norma text here!**
 
 [Portfolio](https://www.bigsamu.com)
+
+
+|Name|Email|Address|
+|----|-----|-------|
+|John|john@example.com|Address1|
+
+```js
+var x = 0
+x = x + 1
+console.log(x)
+```
+
+```sh
+git clone "myrepo.com"
+```
+
+
+1. Hola
+2. Hola Hola
+3. Hola Hola Hola
+   1. hoTu
+   2. hola hola
+
+***
+
+- Yo
+- Tu
+- El
+  - Vosotros
+  - Ellos
+
+* hola
+  * hola
+
+
 
 ---
 
