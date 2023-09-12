@@ -145,6 +145,7 @@ Regarding the course, the main communication channels will be Zoom and Discord a
   - [Class 4: General Info and Library Recommendations 2](https://us06web.zoom.us/rec/share/Fx2165pWaRn49GOkpBwZA2lZctSFxcj95-38Fiw1uBqPtNK5JXbJqHUOaJEhijsN.bf8rgDNm4u26Q9C2?pwd=Lhp0XHi9a-SjzP_wrUXXQxgRA00FOsZK)
   - [Class 5: General Info and Github Recommendations](https://us06web.zoom.us/rec/share/HBsyjZB6TOyNvS1e9CqWxLokec4hDhpEH-hkigL7XGBVv30NdG3xsELwsb0VE4xB.Df2EqsUoX18NkAro?pwd=EQ00nT6nrKm0gQMHUs1ZW0ARbq5p-E0k)
   - [Class 6: General Info and UI Components Recommendations](https://drive.google.com/drive/folders/1P40aGroC4TFFH_nfqcqdkHu84ZjEX0E8?usp=drive_link)
+  - [Class 7: General Info and Markdown Langauge and Readme.me files](https://us06web.zoom.us/rec/share/igy6IsvOj_4mGChbVn3piDfzhvFEc61wceiEJq8dFpUt-5rAmLyhWxDQHvR-IOq0.G0FpeJpR78EBTUtp?startTime=1694469888000&pwd=dSM-chgTGk2Ndg6od3EBSG1oxdBV8Rfj)
 
 >Note: Only recordings for general meetings will be uploaded. NOT recordings will be posted for one-to-ones here (including the ones for individual code reviews from tutorials ("ayudantias").
 
@@ -178,13 +179,16 @@ During the course, useful resources will be listed below for guiding students in
   - [Dev.to](https://dev.to/)
   - [CSS Tricks](https://css-tricks.com/)
 
-- **Git and Terminal**
+- **Git, Terminal and Markdown Language**
   - [Git Tutorial](https://medium.com/swlh/an-introduction-to-git-and-github-22ecb4cb1256)
   - [Terminal for Beginners](https://medium.com/@grace.m.nolan/terminal-for-beginners-e492ba10902a)
   - [Git Merge Conflicts](https://medium.com/version-control-system/git-merge-conflicts-4a18073dcc96)
   - [How Do I Git? Three Ways to Solve a Merge Conflict…](https://medium.com/@RedRoxProjects/how-do-i-git-three-ways-to-solve-a-merge-conflict-cde4d7924c80)
   - [How To Resolve Git Merge Conflicts | Merge Conflicts Explained (Video)](https://www.youtube.com/watch?v=9ZRb01WhuoE)
   - [How to write a readme.md file? (markdown file)](https://medium.com/@saumya.ranjan/how-to-write-a-readme-md-file-markdown-file-20cb7cbcd6f)
+  - [Readme.so](https://readme.so)
+  - [Simple Badges](https://badges.pages.dev/)
+  - [Simple Icons](https://simpleicons.org/)
 
 - **UI/UX Tools and Wireframe Design Apps**
   - [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg)
@@ -201,6 +205,7 @@ During the course, useful resources will be listed below for guiding students in
   - [Lodash](https://lodash.com/)
   - [Axios](https://axios-http.com/)
   - [React Icons](https://react-icons.github.io/react-icons/)
+  - [Font Awesome](https://fontawesome.com/)
   - [Toasts](https://getbootstrap.com/docs/5.2/components/toasts/)
   - [Modals](https://getbootstrap.com/docs/5.2/components/modal/)
 
@@ -212,6 +217,7 @@ During the course, useful resources will be listed below for guiding students in
   - [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
   - [Live Share](https://code.visualstudio.com/learn/collaboration/live-share)
+  - [Mardown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
 - HTTP and APIs
   - [What is HTTP? Protocol Overview for Beginners](https://medium.com/geekculture/apis-query-string-parameters-f7f0c060b1)
