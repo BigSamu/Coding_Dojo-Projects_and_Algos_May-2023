@@ -245,6 +245,10 @@ During the course, useful resources will be listed below for guiding students in
   - [Integration of Google Maps with React](https://medium.com/scalereal/integration-of-google-maps-with-react-part-1-86c075ab452a)
   - [An Introduction to Environment Variables and How to Use Them](https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa)
 
+- **Data Structures and Algorithms**
+  - [Data Structures 101](https://medium.com/swlh/data-structures-101-e18fc33579fa)
+  - [Data Structures 101: Introduction to Data Structures and Algorithms](https://dev.to/brayan_kai/introduction-to-data-structures-and-algorithms-with-python-3jhn)
+
 - **Practice and Leraning Platforms - Interviews**
   - [Interview Cake](https://www.interviewcake.com/)
   - [Hackerrank](https://www.hackerrank.com/)
