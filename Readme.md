@@ -146,6 +146,7 @@ Regarding the course, the main communication channels will be Zoom and Discord a
   - [Class 5: General Info and Github Recommendations](https://us06web.zoom.us/rec/share/HBsyjZB6TOyNvS1e9CqWxLokec4hDhpEH-hkigL7XGBVv30NdG3xsELwsb0VE4xB.Df2EqsUoX18NkAro?pwd=EQ00nT6nrKm0gQMHUs1ZW0ARbq5p-E0k)
   - [Class 6: General Info and UI Components Recommendations](https://drive.google.com/drive/folders/1P40aGroC4TFFH_nfqcqdkHu84ZjEX0E8?usp=drive_link)
   - [Class 7: General Info and Markdown Langauge and Readme.me files](https://us06web.zoom.us/rec/share/igy6IsvOj_4mGChbVn3piDfzhvFEc61wceiEJq8dFpUt-5rAmLyhWxDQHvR-IOq0.G0FpeJpR78EBTUtp?startTime=1694469888000&pwd=dSM-chgTGk2Ndg6od3EBSG1oxdBV8Rfj)
+  - [Class 8: General Info, Interview Coding Platforms and Next.js](https://us06web.zoom.us/rec/share/W4r-QjF6uiQ5gdHt8uMZccsQQPsCLpwI9REn_s27hcbkOrBcSYZA3nIBdY2tojoL.enHlcJdSQaeSho4Y?startTime=1694729156000&pwd=07TKkNOhtzxeg6sApwhYdyshTSQBUv4g)
 
 >Note: Only recordings for general meetings will be uploaded. NOT recordings will be posted for one-to-ones here (including the ones for individual code reviews from tutorials ("ayudantias").
 
@@ -196,7 +197,7 @@ During the course, useful resources will be listed below for guiding students in
   - [Excalidraw](https://excalidraw.com/)
   - [Moqups](https://app.moqups.com/sign-up)
 
-- **Third-Party Libraries and Modules (ReactJS)**
+- **Frontend Third-Party Libraries and Modules (ReactJS)**
   - [Bootstrap 5.2.3](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
   - [Bootstrap-React](https://react-bootstrap.netlify.app/)
   - [Bootswatch](https://bootswatch.com/)
@@ -244,6 +245,11 @@ During the course, useful resources will be listed below for guiding students in
   - [Integration of Google Maps with React](https://medium.com/scalereal/integration-of-google-maps-with-react-part-1-86c075ab452a)
   - [An Introduction to Environment Variables and How to Use Them](https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa)
 
+- **Practice and Leraning Platforms - Interviews**
+  - [Interview Cake](https://www.interviewcake.com/)
+  - [Hackerrank](https://www.hackerrank.com/)
+  - [Leetcode](https://leetcode.com/)
+  - [Codewars](https://www.codewars.com/)
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
 
