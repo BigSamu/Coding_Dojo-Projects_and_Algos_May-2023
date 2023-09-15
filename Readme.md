@@ -248,6 +248,9 @@ During the course, useful resources will be listed below for guiding students in
 - **Data Structures and Algorithms**
   - [Data Structures 101](https://medium.com/swlh/data-structures-101-e18fc33579fa)
   - [Data Structures 101: Introduction to Data Structures and Algorithms](https://dev.to/brayan_kai/introduction-to-data-structures-and-algorithms-with-python-3jhn)
+  - [10 Key Data Structures We Use Every Day](https://www.youtube.com/watch?v=ouipSd_5ivQ)
+  - [Visualization and Comparison of Sorting Algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc&t=13s)
+  - [Visualization of 24 Sorting Algorithms In 2 Minutes](https://www.youtube.com/watch?v=BeoCbJPuvSE)
 
 - **Practice and Leraning Platforms - Interviews**
   - [Interview Cake](https://www.interviewcake.com/)
